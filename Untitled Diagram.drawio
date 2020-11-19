@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T21:37:33.152Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.0" etag="tVqPeZz-HG03s_zFYCek" type="github"><diagram id="XmFxrUI613rIsdRs7jAp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-19T21:47:36.689Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="4Yq_diG8OiHERVcfouJd" version="13.10.0" type="github">
+  <diagram id="XmFxrUI613rIsdRs7jAp" name="Page-1">
+    <mxGraphModel dx="2062" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="310" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-2" value="JS Engine" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="215" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-7" value="Memory Heap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="120" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-8" value="Execution Stack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="120" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-9" value="Web APIs:&lt;br&gt;setTimeout&lt;br&gt;fetch&lt;br&gt;DOM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-10" value="callback queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="425" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/doodle-audio-video-game/91/Audio_-_Video_-_Game_30-128.png" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kcjNz9YKBkGoemfDaUpN-14" value="Event Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
